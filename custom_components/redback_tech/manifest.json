@@ -10,8 +10,7 @@
   "issue_tracker": "https://github.com/cabberley/HA_RedbackTech/issues",
   "loggers": ["redback"],
   "requirements": [
-
-      "redbacktechpy==2024.7.1"
+      "redbacktechpy @ git+https://github.com/Mark-Hetherington/redbacktechpy.git@force_battery"
   ],
   "ssdp": [],
 
